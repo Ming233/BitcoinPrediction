@@ -6,21 +6,42 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Before you run this code you need install all requirement package first:
 
-### `npm install`
+All required packages are embeded into the Package.Json.
 
-In the project directory, you can run:
+### `npm install/yarn`
+
+In the project directory, you can run: npm install or yarn to install all required pageckages
 
 ### `yarn start`
 
-User must navigate to the server folder to run yarn start to start the NodeJS.
+User must navigate to the server folder to run yarn start to start the NodeJS server.
 
-The next navigate to the client folder to run yarn start to start the React.
+The next step is to navigate to the client folder to run yarn start to start the React.
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) and [http://localhost:4000](http://localhost:4000) to view it in the browser.
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
+
+### `Web Demo pages`
+
+Once the web is successfully hosted, you should be able to navigate and see the following pages.
+
+<a target="_blank" href=""><img width="600" src="https://github.com/Ming233/MM802-Project/blob/master/imgs/Recharts.png?raw=true"></a><br>
+
+<a target="_blank" href=""><img width="600" src="https://github.com/Ming233/MM802-Project/blob/master/imgs/WorldCloud.png?raw=true"></a><br>
+
+<a target="_blank" href=""><img width="600" src="https://github.com/Ming233/MM802-Project/blob/master/imgs/React_Diagram.png?raw=true"></a><br>
+
+### `workflow Diagram`
+
+Here is our workflow diagrams:<br>
+<a target="_blank" href=""><img width="600" src="https://github.com/Ming233/MM802-Project/blob/master/imgs/Workflow.jpg?raw=true"></a><br>
+
+### `About this web app`
+
+This React website visualize predicted Bitcoin price into a graphical, user-friendly charts to the user. In this way, potential investor can make up their decision by checking different models' price trend.
 
 ### `yarn test`
 
