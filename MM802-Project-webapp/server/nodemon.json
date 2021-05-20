@@ -1,0 +1,7 @@
+{
+  "env": {
+    "MONGO_USER": "mern",
+    "MONGO_PASSWORD": "bitchart",
+    "MONGO_DB": "BitCoin"
+  }
+}

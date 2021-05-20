@@ -1,0 +1,4219 @@
+[{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4ec6"
+  },
+  "date": "2016-12-30",
+  "Sentiment_Analysis": 0.5555,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    2,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4ec7"
+  },
+  "date": "2016-12-29",
+  "Sentiment_Analysis": 0.30706666666666665,
+  "key_word_table": [
+    1,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4ec8"
+  },
+  "date": "2016-12-28",
+  "Sentiment_Analysis": 0.17621111111111112,
+  "key_word_table": [
+    1,
+    0,
+    1,
+    1,
+    1,
+    2,
+    0,
+    2,
+    0,
+    1,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4ec9"
+  },
+  "date": "2016-12-27",
+  "Sentiment_Analysis": 0.3122,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4eca"
+  },
+  "date": "2016-12-26",
+  "Sentiment_Analysis": 0.38487142857142853,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    1,
+    1,
+    0,
+    1,
+    1,
+    1,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4ecb"
+  },
+  "date": "2016-12-25",
+  "Sentiment_Analysis": 0.3081333333333333,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4ecc"
+  },
+  "date": "2016-12-24",
+  "Sentiment_Analysis": 0.16106666666666666,
+  "key_word_table": [
+    0,
+    0,
+    1,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4ecd"
+  },
+  "date": "2016-12-23",
+  "Sentiment_Analysis": 0.2468444444444444,
+  "key_word_table": [
+    0,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    1,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4ece"
+  },
+  "date": "2016-12-22",
+  "Sentiment_Analysis": 0.262,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    1,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4ecf"
+  },
+  "date": "2016-12-21",
+  "Sentiment_Analysis": 0.337775,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4ed0"
+  },
+  "date": "2016-12-20",
+  "Sentiment_Analysis": 0.166,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    1,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4ed1"
+  },
+  "date": "2016-12-19",
+  "Sentiment_Analysis": 0,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4ed2"
+  },
+  "date": "2016-12-18",
+  "Sentiment_Analysis": -0.105375,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4ed3"
+  },
+  "date": "2016-12-17",
+  "Sentiment_Analysis": -0.14049999999999999,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4ed4"
+  },
+  "date": "2016-12-16",
+  "Sentiment_Analysis": -0.21945,
+  "key_word_table": [
+    0,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4ed5"
+  },
+  "date": "2016-12-15",
+  "Sentiment_Analysis": 0,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4ed6"
+  },
+  "date": "2016-12-14",
+  "Sentiment_Analysis": -0.08594999999999997,
+  "key_word_table": [
+    1,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4ed7"
+  },
+  "date": "2016-12-13",
+  "Sentiment_Analysis": 0.8555,
+  "key_word_table": [
+    0,
+    1,
+    0,
+    0,
+    1,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4ed8"
+  },
+  "date": "2016-12-12",
+  "Sentiment_Analysis": 0.35942,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0,
+    2,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4ed9"
+  },
+  "date": "2016-12-11",
+  "Sentiment_Analysis": -0.7003,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4eda"
+  },
+  "date": "2016-12-10",
+  "Sentiment_Analysis": 0,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4edb"
+  },
+  "date": "2016-12-09",
+  "Sentiment_Analysis": 0.4019,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4edc"
+  },
+  "date": "2016-12-08",
+  "Sentiment_Analysis": -0.2068,
+  "key_word_table": [
+    0,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4edd"
+  },
+  "date": "2016-12-07",
+  "Sentiment_Analysis": -0.25355714285714287,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4ede"
+  },
+  "date": "2016-12-06",
+  "Sentiment_Analysis": 0.0516,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4edf"
+  },
+  "date": "2016-12-04",
+  "Sentiment_Analysis": 0.296,
+  "key_word_table": [
+    0,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4ee0"
+  },
+  "date": "2016-12-03",
+  "Sentiment_Analysis": 0,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4ee1"
+  },
+  "date": "2016-12-02",
+  "Sentiment_Analysis": 0,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4ee2"
+  },
+  "date": "2016-12-01",
+  "Sentiment_Analysis": 0.0593,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4ee3"
+  },
+  "date": "2016-11-29",
+  "Sentiment_Analysis": 0,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4ee4"
+  },
+  "date": "2016-11-28",
+  "Sentiment_Analysis": -0.29000000000000004,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4ee5"
+  },
+  "date": "2016-11-27",
+  "Sentiment_Analysis": 0.296,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4ee6"
+  },
+  "date": "2016-11-26",
+  "Sentiment_Analysis": -0.4408,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4ee7"
+  },
+  "date": "2016-11-25",
+  "Sentiment_Analysis": 0,
+  "key_word_table": [
+    0,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4ee8"
+  },
+  "date": "2016-11-24",
+  "Sentiment_Analysis": 0.8126,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4ee9"
+  },
+  "date": "2016-11-23",
+  "Sentiment_Analysis": 0,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4eea"
+  },
+  "date": "2016-11-22",
+  "Sentiment_Analysis": 0.3418333333333334,
+  "key_word_table": [
+    0,
+    0,
+    2,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4eeb"
+  },
+  "date": "2016-11-20",
+  "Sentiment_Analysis": 0.45013333333333333,
+  "key_word_table": [
+    0,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4eec"
+  },
+  "date": "2016-11-19",
+  "Sentiment_Analysis": 0.296,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4eed"
+  },
+  "date": "2016-11-18",
+  "Sentiment_Analysis": 0.38915,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4eee"
+  },
+  "date": "2016-11-17",
+  "Sentiment_Analysis": 0.27815,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    1,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4eef"
+  },
+  "date": "2016-11-16",
+  "Sentiment_Analysis": 0.20385,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4ef0"
+  },
+  "date": "2016-11-15",
+  "Sentiment_Analysis": 0.8885,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4ef1"
+  },
+  "date": "2016-11-14",
+  "Sentiment_Analysis": 0.11572500000000001,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4ef2"
+  },
+  "date": "2016-11-13",
+  "Sentiment_Analysis": 0.1494,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4ef3"
+  },
+  "date": "2016-11-11",
+  "Sentiment_Analysis": 0.148,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4ef4"
+  },
+  "date": "2016-11-10",
+  "Sentiment_Analysis": 0,
+  "key_word_table": [
+    0,
+    1,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4ef5"
+  },
+  "date": "2016-11-09",
+  "Sentiment_Analysis": 0.1468,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4ef6"
+  },
+  "date": "2016-11-08",
+  "Sentiment_Analysis": 0.42060000000000003,
+  "key_word_table": [
+    0,
+    1,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0,
+    1,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4ef7"
+  },
+  "date": "2016-11-04",
+  "Sentiment_Analysis": 0.11315,
+  "key_word_table": [
+    0,
+    1,
+    0,
+    0,
+    0,
+    1,
+    1,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4ef8"
+  },
+  "date": "2016-11-03",
+  "Sentiment_Analysis": -0.2023,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4ef9"
+  },
+  "date": "2016-11-02",
+  "Sentiment_Analysis": 0,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4efa"
+  },
+  "date": "2016-11-01",
+  "Sentiment_Analysis": 0.3597,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4efb"
+  },
+  "date": "2016-10-31",
+  "Sentiment_Analysis": 0.16468,
+  "key_word_table": [
+    0,
+    1,
+    1,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4efc"
+  },
+  "date": "2016-10-29",
+  "Sentiment_Analysis": 0.044550000000000006,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4efd"
+  },
+  "date": "2016-10-28",
+  "Sentiment_Analysis": -0.36755,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4efe"
+  },
+  "date": "2016-10-27",
+  "Sentiment_Analysis": -0.20500000000000002,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0,
+    2,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4eff"
+  },
+  "date": "2016-10-26",
+  "Sentiment_Analysis": 0,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f00"
+  },
+  "date": "2016-10-24",
+  "Sentiment_Analysis": 0.30327499999999996,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f01"
+  },
+  "date": "2016-10-21",
+  "Sentiment_Analysis": 0.3715,
+  "key_word_table": [
+    0,
+    0,
+    1,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f02"
+  },
+  "date": "2016-10-20",
+  "Sentiment_Analysis": 0.4588,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f03"
+  },
+  "date": "2016-10-19",
+  "Sentiment_Analysis": 0,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f04"
+  },
+  "date": "2016-10-16",
+  "Sentiment_Analysis": 0,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f05"
+  },
+  "date": "2016-10-14",
+  "Sentiment_Analysis": 0,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f06"
+  },
+  "date": "2016-10-13",
+  "Sentiment_Analysis": 0.050199999999999995,
+  "key_word_table": [
+    0,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f07"
+  },
+  "date": "2016-10-11",
+  "Sentiment_Analysis": 0.7003,
+  "key_word_table": [
+    0,
+    1,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f08"
+  },
+  "date": "2016-10-09",
+  "Sentiment_Analysis": -0.1882,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f09"
+  },
+  "date": "2016-10-08",
+  "Sentiment_Analysis": 0.7514000000000001,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f0a"
+  },
+  "date": "2016-10-07",
+  "Sentiment_Analysis": 0,
+  "key_word_table": [
+    0,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f0b"
+  },
+  "date": "2016-10-05",
+  "Sentiment_Analysis": -0.5492,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f0c"
+  },
+  "date": "2016-10-03",
+  "Sentiment_Analysis": -0.3612,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f0d"
+  },
+  "date": "2016-10-02",
+  "Sentiment_Analysis": -0.4515,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    1,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f0e"
+  },
+  "date": "2016-10-01",
+  "Sentiment_Analysis": 0.6369,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f0f"
+  },
+  "date": "2016-09-29",
+  "Sentiment_Analysis": 0.09545,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0,
+    1,
+    1,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f10"
+  },
+  "date": "2016-09-27",
+  "Sentiment_Analysis": 0.2942,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f11"
+  },
+  "date": "2016-09-26",
+  "Sentiment_Analysis": 0.5106,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f12"
+  },
+  "date": "2016-09-25",
+  "Sentiment_Analysis": 0,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f13"
+  },
+  "date": "2016-09-24",
+  "Sentiment_Analysis": 0.34,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f14"
+  },
+  "date": "2016-09-22",
+  "Sentiment_Analysis": 0,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f15"
+  },
+  "date": "2016-09-15",
+  "Sentiment_Analysis": 0.368,
+  "key_word_table": [
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f16"
+  },
+  "date": "2016-09-14",
+  "Sentiment_Analysis": 0.96,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f17"
+  },
+  "date": "2016-09-13",
+  "Sentiment_Analysis": -0.4404,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f18"
+  },
+  "date": "2016-09-11",
+  "Sentiment_Analysis": 0.7345,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f19"
+  },
+  "date": "2016-09-08",
+  "Sentiment_Analysis": 0.3612,
+  "key_word_table": [
+    0,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f1a"
+  },
+  "date": "2016-09-07",
+  "Sentiment_Analysis": 0.2924,
+  "key_word_table": [
+    0,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f1b"
+  },
+  "date": "2016-09-06",
+  "Sentiment_Analysis": -0.4588,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f1c"
+  },
+  "date": "2016-09-01",
+  "Sentiment_Analysis": -0.4926,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f1d"
+  },
+  "date": "2016-08-31",
+  "Sentiment_Analysis": 0.61425,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f1e"
+  },
+  "date": "2016-08-29",
+  "Sentiment_Analysis": -0.0963,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f1f"
+  },
+  "date": "2016-08-22",
+  "Sentiment_Analysis": 0.4981,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f20"
+  },
+  "date": "2016-08-19",
+  "Sentiment_Analysis": -0.5095,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f21"
+  },
+  "date": "2016-08-18",
+  "Sentiment_Analysis": -0.4767,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f22"
+  },
+  "date": "2016-08-17",
+  "Sentiment_Analysis": 0.4209666666666667,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f23"
+  },
+  "date": "2016-08-16",
+  "Sentiment_Analysis": 0,
+  "key_word_table": [
+    0,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f24"
+  },
+  "date": "2016-08-11",
+  "Sentiment_Analysis": 0.5106,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f25"
+  },
+  "date": "2016-08-10",
+  "Sentiment_Analysis": 0.56785,
+  "key_word_table": [
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f26"
+  },
+  "date": "2016-08-09",
+  "Sentiment_Analysis": 0.008350000000000024,
+  "key_word_table": [
+    0,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f27"
+  },
+  "date": "2016-08-08",
+  "Sentiment_Analysis": 0.22503333333333334,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f28"
+  },
+  "date": "2016-08-07",
+  "Sentiment_Analysis": 0.8555,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f29"
+  },
+  "date": "2016-08-05",
+  "Sentiment_Analysis": 0.17533333333333334,
+  "key_word_table": [
+    0,
+    0,
+    1,
+    0,
+    0,
+    0,
+    1,
+    0,
+    1,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f2a"
+  },
+  "date": "2016-08-04",
+  "Sentiment_Analysis": 0.19403333333333336,
+  "key_word_table": [
+    0,
+    1,
+    2,
+    1,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f2b"
+  },
+  "date": "2016-08-03",
+  "Sentiment_Analysis": 0.06845000000000001,
+  "key_word_table": [
+    0,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f2c"
+  },
+  "date": "2016-08-02",
+  "Sentiment_Analysis": -0.4873249999999999,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f2d"
+  },
+  "date": "2016-08-01",
+  "Sentiment_Analysis": -0.1401333333333333,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0,
+    1,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f2e"
+  },
+  "date": "2016-07-31",
+  "Sentiment_Analysis": -0.6705,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f2f"
+  },
+  "date": "2016-07-27",
+  "Sentiment_Analysis": 0.31845,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f30"
+  },
+  "date": "2016-07-26",
+  "Sentiment_Analysis": 0.14200000000000002,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f31"
+  },
+  "date": "2016-07-25",
+  "Sentiment_Analysis": 0,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f32"
+  },
+  "date": "2016-07-24",
+  "Sentiment_Analysis": 0,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f33"
+  },
+  "date": "2016-07-22",
+  "Sentiment_Analysis": -0.4019,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f34"
+  },
+  "date": "2016-07-21",
+  "Sentiment_Analysis": 0.8767,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f35"
+  },
+  "date": "2016-07-19",
+  "Sentiment_Analysis": 0,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f36"
+  },
+  "date": "2016-07-18",
+  "Sentiment_Analysis": -0.0039000000000000146,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f37"
+  },
+  "date": "2016-07-14",
+  "Sentiment_Analysis": 0.24750000000000003,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f38"
+  },
+  "date": "2016-07-13",
+  "Sentiment_Analysis": 0,
+  "key_word_table": [
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f39"
+  },
+  "date": "2016-07-12",
+  "Sentiment_Analysis": -0.28595,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f3a"
+  },
+  "date": "2016-07-11",
+  "Sentiment_Analysis": 0.63845,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f3b"
+  },
+  "date": "2016-07-10",
+  "Sentiment_Analysis": -0.3478,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f3c"
+  },
+  "date": "2016-07-09",
+  "Sentiment_Analysis": 0.35514999999999997,
+  "key_word_table": [
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f3d"
+  },
+  "date": "2016-07-07",
+  "Sentiment_Analysis": 0,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f3e"
+  },
+  "date": "2016-07-06",
+  "Sentiment_Analysis": -0.10405000000000003,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f3f"
+  },
+  "date": "2016-07-05",
+  "Sentiment_Analysis": 0.4462,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f40"
+  },
+  "date": "2016-07-03",
+  "Sentiment_Analysis": 0.4019,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f41"
+  },
+  "date": "2016-07-01",
+  "Sentiment_Analysis": -0.10170000000000001,
+  "key_word_table": [
+    1,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0,
+    1,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f42"
+  },
+  "date": "2016-06-29",
+  "Sentiment_Analysis": 0.6597,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f43"
+  },
+  "date": "2016-06-27",
+  "Sentiment_Analysis": 0.23040000000000002,
+  "key_word_table": [
+    0,
+    1,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    1,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f44"
+  },
+  "date": "2016-06-26",
+  "Sentiment_Analysis": 0,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f45"
+  },
+  "date": "2016-06-24",
+  "Sentiment_Analysis": 0.29969999999999997,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f46"
+  },
+  "date": "2016-06-23",
+  "Sentiment_Analysis": 0.3524375,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    1,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f47"
+  },
+  "date": "2016-06-21",
+  "Sentiment_Analysis": -0.3804,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f48"
+  },
+  "date": "2016-06-20",
+  "Sentiment_Analysis": 0.3612,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f49"
+  },
+  "date": "2016-06-19",
+  "Sentiment_Analysis": 0,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f4a"
+  },
+  "date": "2016-06-18",
+  "Sentiment_Analysis": -0.1227,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f4b"
+  },
+  "date": "2016-06-17",
+  "Sentiment_Analysis": -0.0644,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f4c"
+  },
+  "date": "2016-06-16",
+  "Sentiment_Analysis": 0,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f4d"
+  },
+  "date": "2016-06-15",
+  "Sentiment_Analysis": 0.5106,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f4e"
+  },
+  "date": "2016-06-13",
+  "Sentiment_Analysis": 0.7783,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f4f"
+  },
+  "date": "2016-06-12",
+  "Sentiment_Analysis": 0.4939,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f50"
+  },
+  "date": "2016-06-11",
+  "Sentiment_Analysis": -0.3028,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f51"
+  },
+  "date": "2016-06-10",
+  "Sentiment_Analysis": 0.128,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f52"
+  },
+  "date": "2016-06-08",
+  "Sentiment_Analysis": 0,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f53"
+  },
+  "date": "2016-06-07",
+  "Sentiment_Analysis": 0,
+  "key_word_table": [
+    0,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f54"
+  },
+  "date": "2016-06-06",
+  "Sentiment_Analysis": 0.5574,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f55"
+  },
+  "date": "2016-06-04",
+  "Sentiment_Analysis": 0,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f56"
+  },
+  "date": "2016-06-01",
+  "Sentiment_Analysis": 0.36675,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f57"
+  },
+  "date": "2016-05-31",
+  "Sentiment_Analysis": 0.3182,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f58"
+  },
+  "date": "2016-05-29",
+  "Sentiment_Analysis": -0.2732,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f59"
+  },
+  "date": "2016-05-28",
+  "Sentiment_Analysis": 0,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f5a"
+  },
+  "date": "2016-05-27",
+  "Sentiment_Analysis": 0,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f5b"
+  },
+  "date": "2016-05-26",
+  "Sentiment_Analysis": 0.3612,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f5c"
+  },
+  "date": "2016-05-25",
+  "Sentiment_Analysis": 0.2835,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f5d"
+  },
+  "date": "2016-05-23",
+  "Sentiment_Analysis": 0.0258,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f5e"
+  },
+  "date": "2016-05-22",
+  "Sentiment_Analysis": 0,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f5f"
+  },
+  "date": "2016-05-21",
+  "Sentiment_Analysis": 0.7184,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f60"
+  },
+  "date": "2016-05-20",
+  "Sentiment_Analysis": 0.8934,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f61"
+  },
+  "date": "2016-05-19",
+  "Sentiment_Analysis": -0.5267,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f62"
+  },
+  "date": "2016-05-16",
+  "Sentiment_Analysis": 0,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f63"
+  },
+  "date": "2016-05-14",
+  "Sentiment_Analysis": 0.2361333333333333,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f64"
+  },
+  "date": "2016-05-13",
+  "Sentiment_Analysis": 0.9618,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f65"
+  },
+  "date": "2016-05-12",
+  "Sentiment_Analysis": -0.6408,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f66"
+  },
+  "date": "2016-05-10",
+  "Sentiment_Analysis": 0.4389,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f67"
+  },
+  "date": "2016-05-08",
+  "Sentiment_Analysis": 0.23835,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f68"
+  },
+  "date": "2016-05-07",
+  "Sentiment_Analysis": 0,
+  "key_word_table": [
+    0,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f69"
+  },
+  "date": "2016-05-05",
+  "Sentiment_Analysis": 0.5106,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f6a"
+  },
+  "date": "2016-05-03",
+  "Sentiment_Analysis": -0.5574,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f6b"
+  },
+  "date": "2016-05-02",
+  "Sentiment_Analysis": -0.015017647058823528,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    1,
+    1,
+    0,
+    1,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f6c"
+  },
+  "date": "2016-04-29",
+  "Sentiment_Analysis": 0,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    1,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f6d"
+  },
+  "date": "2016-04-28",
+  "Sentiment_Analysis": 0,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f6e"
+  },
+  "date": "2016-04-25",
+  "Sentiment_Analysis": 0.5255,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f6f"
+  },
+  "date": "2016-04-24",
+  "Sentiment_Analysis": 0.7506,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f70"
+  },
+  "date": "2016-04-23",
+  "Sentiment_Analysis": 0,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f71"
+  },
+  "date": "2016-04-22",
+  "Sentiment_Analysis": 0,
+  "key_word_table": [
+    0,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f72"
+  },
+  "date": "2016-04-21",
+  "Sentiment_Analysis": 0,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f73"
+  },
+  "date": "2016-04-19",
+  "Sentiment_Analysis": 0.1406,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f74"
+  },
+  "date": "2016-04-17",
+  "Sentiment_Analysis": 0.743,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f75"
+  },
+  "date": "2016-04-07",
+  "Sentiment_Analysis": 0.48635000000000006,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    0,
+    1,
+    0,
+    1
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f76"
+  },
+  "date": "2016-04-04",
+  "Sentiment_Analysis": 0.3595,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f77"
+  },
+  "date": "2016-04-03",
+  "Sentiment_Analysis": -0.5945,
+  "key_word_table": [
+    0,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f78"
+  },
+  "date": "2016-04-02",
+  "Sentiment_Analysis": 0.3612,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f79"
+  },
+  "date": "2016-04-01",
+  "Sentiment_Analysis": 0,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f7a"
+  },
+  "date": "2016-03-29",
+  "Sentiment_Analysis": 0.8074,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f7b"
+  },
+  "date": "2016-03-28",
+  "Sentiment_Analysis": -0.1779,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f7c"
+  },
+  "date": "2016-03-27",
+  "Sentiment_Analysis": 0.1366,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f7d"
+  },
+  "date": "2016-03-23",
+  "Sentiment_Analysis": 0.128,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f7e"
+  },
+  "date": "2016-03-20",
+  "Sentiment_Analysis": 0.5994,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f7f"
+  },
+  "date": "2016-03-14",
+  "Sentiment_Analysis": -0.296,
+  "key_word_table": [
+    0,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f80"
+  },
+  "date": "2016-03-13",
+  "Sentiment_Analysis": 0.17435000000000003,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f81"
+  },
+  "date": "2016-03-12",
+  "Sentiment_Analysis": 0.4466,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f82"
+  },
+  "date": "2016-03-11",
+  "Sentiment_Analysis": 0.18196666666666664,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f83"
+  },
+  "date": "2016-03-06",
+  "Sentiment_Analysis": 0.6249,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f84"
+  },
+  "date": "2016-02-29",
+  "Sentiment_Analysis": 0.6808,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f85"
+  },
+  "date": "2016-02-27",
+  "Sentiment_Analysis": 0.5399,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f86"
+  },
+  "date": "2016-02-26",
+  "Sentiment_Analysis": 0.5859,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f87"
+  },
+  "date": "2016-02-22",
+  "Sentiment_Analysis": 0,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f88"
+  },
+  "date": "2016-02-21",
+  "Sentiment_Analysis": 0,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f89"
+  },
+  "date": "2016-02-20",
+  "Sentiment_Analysis": 0.25115,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f8a"
+  },
+  "date": "2016-02-18",
+  "Sentiment_Analysis": 0,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f8b"
+  },
+  "date": "2016-02-17",
+  "Sentiment_Analysis": 0.45604999999999996,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f8c"
+  },
+  "date": "2016-02-16",
+  "Sentiment_Analysis": -0.34135000000000004,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    1
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f8d"
+  },
+  "date": "2016-02-13",
+  "Sentiment_Analysis": 0,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f8e"
+  },
+  "date": "2016-02-10",
+  "Sentiment_Analysis": 0.8402,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f8f"
+  },
+  "date": "2016-02-09",
+  "Sentiment_Analysis": 0.65035,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f90"
+  },
+  "date": "2016-02-08",
+  "Sentiment_Analysis": -0.6369,
+  "key_word_table": [
+    0,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f91"
+  },
+  "date": "2016-02-07",
+  "Sentiment_Analysis": 0,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f92"
+  },
+  "date": "2016-02-03",
+  "Sentiment_Analysis": 0,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f93"
+  },
+  "date": "2016-02-02",
+  "Sentiment_Analysis": 0.1779,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f94"
+  },
+  "date": "2016-02-01",
+  "Sentiment_Analysis": 0,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f95"
+  },
+  "date": "2016-01-28",
+  "Sentiment_Analysis": 0.44655,
+  "key_word_table": [
+    0,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f96"
+  },
+  "date": "2016-01-23",
+  "Sentiment_Analysis": 0.7184,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f97"
+  },
+  "date": "2016-01-22",
+  "Sentiment_Analysis": -0.0232,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f98"
+  },
+  "date": "2016-01-21",
+  "Sentiment_Analysis": -0.6486,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f99"
+  },
+  "date": "2016-01-19",
+  "Sentiment_Analysis": 0.0258,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f9a"
+  },
+  "date": "2016-01-18",
+  "Sentiment_Analysis": 0,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f9b"
+  },
+  "date": "2016-01-17",
+  "Sentiment_Analysis": 0.3825,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f9c"
+  },
+  "date": "2016-01-15",
+  "Sentiment_Analysis": 0.054366666666666674,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f9d"
+  },
+  "date": "2016-01-14",
+  "Sentiment_Analysis": -0.31980000000000003,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f9e"
+  },
+  "date": "2016-01-13",
+  "Sentiment_Analysis": 0.127025,
+  "key_word_table": [
+    0,
+    1,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4f9f"
+  },
+  "date": "2016-01-11",
+  "Sentiment_Analysis": 0.6249,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4fa0"
+  },
+  "date": "2016-01-04",
+  "Sentiment_Analysis": 0,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4fa1"
+  },
+  "date": "2016-01-03",
+  "Sentiment_Analysis": 0.6003,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    1,
+    1,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4fa2"
+  },
+  "date": "2016-01-02",
+  "Sentiment_Analysis": 0.0258,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+},{
+  "_id": {
+    "$oid": "606446395b0d7f4f6fbe4fa3"
+  },
+  "date": "2016-01-01",
+  "Sentiment_Analysis": 0.31845,
+  "key_word_table": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+}]

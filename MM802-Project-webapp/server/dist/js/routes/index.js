@@ -1,0 +1,16 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+const express_1 = require("express");
+const controllers_1 = require("../controllers");
+const router = express_1.Router();
+router.get('/api/hash-rates', controllers_1.getHashRates);
+router.get('/api/usd', controllers_1.getUsd);
+router.get('/api/usdprediction', controllers_1.getUsdprediction);
+router.get('/api/hashrateprediction', controllers_1.getHashrateprediction);
+router.get('/api/hrprediction', controllers_1.getHrprediction);
+router.get('/api/priceprediction', controllers_1.getPriceprediction);
+router.get('/api/tweetprediction', controllers_1.getTweetprediction);
+router.get('/api/hrandpriceprediction', controllers_1.getHrandpriceprediction);
+router.get('/api/allfeature', controllers_1.getAllfeature);
+router.get('/api/keyword', controllers_1.getKeyword);
+exports.default = router;
